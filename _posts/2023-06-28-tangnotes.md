@@ -1,4 +1,4 @@
 ---
 title: "tangnotes"
-date: YYYY-MM-DD
+date: 2023-06-28
 ---
